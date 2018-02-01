@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\JAVA_JG\ssm\ssh-root\soa\soa-api.iml" filepath="E:\JAVA_JG\ssm\ssh-root\soa\soa-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-api/ssh-api.iml" filepath="$PROJECT_DIR$/ssh-api/ssh-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-apiservice/ssh-apiservice.iml" filepath="$PROJECT_DIR$/ssh-apiservice/ssh-apiservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-core/ssh-core.iml" filepath="$PROJECT_DIR$/ssh-core/ssh-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-dao/ssh-dao.iml" filepath="$PROJECT_DIR$/ssh-dao/ssh-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-domain/ssh-domain.iml" filepath="$PROJECT_DIR$/ssh-domain/ssh-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-redis/ssh-redis.iml" filepath="$PROJECT_DIR$/ssh-redis/ssh-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-root.iml" filepath="$PROJECT_DIR$/ssh-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-service/ssh-service.iml" filepath="$PROJECT_DIR$/ssh-service/ssh-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-webapp/ssh-webapp.iml" filepath="$PROJECT_DIR$/ssh-webapp/ssh-webapp.iml" />
+    </modules>
+  </component>
+</project>

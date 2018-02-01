@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ssh-api" />
+        <module name="ssh-apiservice" />
+        <module name="ssh-core" />
+        <module name="ssh-dao" />
+        <module name="ssh-domain" />
+        <module name="ssh-redis" />
+        <module name="ssh-service" />
+        <module name="ssh-webapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ssh-api" target="1.6" />
+      <module name="ssh-apiservice" target="1.6" />
+      <module name="ssh-controller" target="1.5" />
+      <module name="ssh-core" target="1.7" />
+      <module name="ssh-dao" target="1.6" />
+      <module name="ssh-domain" target="1.5" />
+      <module name="ssh-redis" target="1.5" />
+      <module name="ssh-root" target="1.5" />
+      <module name="ssh-service" target="1.6" />
+      <module name="ssh-webapp" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
